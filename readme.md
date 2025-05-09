@@ -1,1 +1,1 @@
-hello my name is turzi
+hello my name is turzi, i am a programmer
